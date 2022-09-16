@@ -1,6 +1,7 @@
 # MIPLAB brain atlases
 
 [Paper](https://www.nature.com/articles/s41597-020-0379-9)
+[A statistical atlas of cerebral arteries](https://www.ucalgary.ca/labs/miplab/downloads)
 
 This repository includes the high-resolution, age-specific FLAIR and non-contrast CT atlases of the elderly built from clinical images. The atlases provided are compatible with the standard [MNI atlases](http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009). 
 
